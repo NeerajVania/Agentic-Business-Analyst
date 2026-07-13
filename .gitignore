@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/reports/
+data/uploads/
+data/vectorstore/
+chroma/
+.pytest_cache/
