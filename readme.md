@@ -1,7 +1,6 @@
 # Agentic Data Analyst: Autonomous Business Intelligence System
 
 <div align="center">
-  <img src="docs/images/logo.png" alt="Agentic Data Analyst Logo" width="200" />
   
   [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688.svg)](https://fastapi.tiangolo.com/)
@@ -194,10 +193,6 @@ The backend exposes a RESTful API powered by FastAPI.
 ---
 
 ## 🚀 Future Work
-
-- **Role-based access control** for multi-user and client-specific deployments
 - **Configurable governance rules** per dataset — currently validation logic is hardcoded; making it declarative would generalize the system across industries
 - **Query caching layer** for repeated questions to reduce LLM API costs on high-volume deployments
-- **Scheduled pipeline runs** — trigger the full agent pipeline on a cron schedule so dashboards refresh automatically without any user prompt
-
 ---
