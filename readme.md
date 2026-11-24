@@ -8,32 +8,6 @@
   [![LangGraph](https://img.shields.io/badge/LangGraph-0.1.0+-orange.svg)](https://python.langchain.com/v0.2/docs/langgraph/)
   [![Docker](https://img.shields.io/badge/Docker-Supported-2496ED.svg)](https://www.docker.com/)
 </div>
-Search across multiple job platforms and company career pages, including but not limited to:
-
-https://www.greenhouse.io/jobs
-
-https://jobs.ascendion.com
-
-https://www.naukri.com
-
-https://www.workatastartup.com
-
-LinkedIn Jobs
-
-Wellfound
-
-Y Combinator startup jobs
-
-Instahyre
-
-Cutshort
-
-Lever-hosted career pages
-
-Ashby-hosted career pages
-
-Individual company career portals.
-
 
 A multi-agent AI platform that converts natural-language business questions into SQL queries, anomaly-detection alerts, time-series forecasts, and executive-ready reports — built end-to-end with a focus on **governed, reproducible analytics pipelines** and **minimal human intervention**.
 
